@@ -18,7 +18,7 @@ var line: array[0..14] of integer;  // Max 15 rows
 begin
   { Initialize 'line' array }
   for i := 0 to 14 do
-    line[i] := 0
+    line[i] := 0;
 
   readln(n);
 
