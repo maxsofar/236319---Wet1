@@ -37,7 +37,7 @@ begin
         end;
         LAB:
         begin
-            readln(courses[id].name);c
+            readln(courses[id].name);
             readln(courses[id].profName);
             readln(courses[id].location)
         end;
